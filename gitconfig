@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elenapoikilia@gmail.com
+	name = Elena Pegoraro
